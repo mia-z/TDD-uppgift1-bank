@@ -8,11 +8,11 @@ namespace BankOfEvil.Domain
 
         public decimal Balance { get; set; }
         
-        public Account(uint accountNumber, Customer owner, decimal balance)
+        public Account(uint accountNumber, Customer owner)
         {
             AccountNumber = accountNumber;
             Owner = owner;
-            Balance = balance;
+            Balance = 1000;
         }
 
         public void Withdraw(decimal amount)
