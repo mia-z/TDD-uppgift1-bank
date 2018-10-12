@@ -1,0 +1,11 @@
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\bin\Debug\netcoreapp2.1\BankOfEvil.deps.json
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\bin\Debug\netcoreapp2.1\BankOfEvil.runtimeconfig.json
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\bin\Debug\netcoreapp2.1\BankOfEvil.runtimeconfig.dev.json
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\bin\Debug\netcoreapp2.1\BankOfEvil.dll
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\bin\Debug\netcoreapp2.1\BankOfEvil.pdb
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\obj\Debug\netcoreapp2.1\BankOfEvil.csprojAssemblyReference.cache
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\obj\Debug\netcoreapp2.1\BankOfEvil.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\obj\Debug\netcoreapp2.1\BankOfEvil.AssemblyInfoInputs.cache
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\obj\Debug\netcoreapp2.1\BankOfEvil.AssemblyInfo.cs
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\obj\Debug\netcoreapp2.1\BankOfEvil.dll
+C:\Users\Ryan\Workspace\ECUtbildning\TDD\Uppgift1\BankOfEvil\BankOfEvil\obj\Debug\netcoreapp2.1\BankOfEvil.pdb
